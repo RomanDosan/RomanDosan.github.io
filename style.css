@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    background-image: url(backgraundjpg2.jpg);
+    background-size: cover;
+    background-color: green;
+    height: 800px;
+}
+
+a {
+    color: black;
+}
+
+p {
+    color: white;
+}
